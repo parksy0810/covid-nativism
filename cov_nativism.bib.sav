@@ -1,0 +1,18 @@
+% Encoding: UTF-8
+
+@Article{2021,
+  author    = {Vivian Louie and Anah Viladrich},
+  journal   = {Social Sciences},
+  title     = {Divide, Divert, and Conque Deconstructing the Presidential Framing of White Supremacy in the COVID-19 Era},
+  year      = {2021},
+  month     = oct,
+  number    = {8},
+  pages     = {280},
+  volume    = {10},
+  abstract  = {Based on the analysis of President Donald J. Trump’s social media, along with excerpts from his speeches and press releases, this study sheds light on the framing of white supremacy during the first months of the COVID-19 pandemic in the United States. Our findings reveal that the triad of divide, divert, and conquer was crucial to Trump’s communications strategy. We argue that racist nativism—or racialized national threats to American security—is key to comprehending the external divisiveness in this strategy. When Trump bitterly cast China as the cause of America’s pandemic fallout and Mexico as the source of other key American problems (i.e., crime and low-paid jobs for U.S.-born Americans), he sowed clear racialized divisions between the United States (U.S.). and these two nations. We further argue that nativist racism—or the framing of descendants from those nations as incapable of ever being American—is key to comprehending the internal divisiveness in the former President’s pandemic rhetoric. Trump’s framing of China and Mexico as enemies of America further found its culprits in Asian and Latino Americans who were portrayed as COVID-19 carriers. Trump’s narrative was ultimately geared to diverting attention from his administration’s mishandling of COVID-19, the dismal structural conditions faced by detained and undocumented Latinos, and the anti-Asian bias faced by some of his Asian American constituents. In the conclusions, this article makes a call for countering white supremacy by developing comparative approaches that pay more attention to how different racisms play out for different groups.},
+  doi       = {10.3390/socsci10080280},
+  publisher = {{MDPI} {AG}},
+  url       = {https://www.mdpi.com/2076-0760/10/8/280/htm},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
